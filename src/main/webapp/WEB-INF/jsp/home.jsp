@@ -12,6 +12,14 @@
 </head>
 <body>
 <h1> Home Page </h1>
+<form>
 
+
+    User Name : <input type="text" name="uname">
+    <br>
+    Password  : <input type="password" name="password">
+    <br>
+    <input type="submit" value ="Login">
+</form>
 </body>
 </html>
